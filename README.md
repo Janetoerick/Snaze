@@ -7,7 +7,7 @@ Para definir o mapa:
 Deve-se criar um arquivo txt e chama-lo na hora de compilar. Pode se colocar vários mapas de uma vez no arquivo.
 Para cada mapa coloca-se a quantidade de linhas e depois a quantidade de colunas, logo após o mapa(exemplos na pasta "test").
 No mapa desenhado pode ter:
-*" * " - ponto inicial do snake(obrigatório em cada mapa).
+* " * " - ponto inicial do snake(obrigatório em cada mapa).
 " # "- parede
 " 0 " - caminho livre
 " . " - parede invisível
