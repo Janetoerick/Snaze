@@ -20,6 +20,5 @@ OBS: O score funciona da seguinte forma:
     Caso pegue um café ganha 100
     Caso morra, perde 500
     
-Autores:
+Autor:
     Janeto Erick da Costa Lima
-    Júlio César da Costa Morais
