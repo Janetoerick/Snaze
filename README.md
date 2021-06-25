@@ -1,7 +1,7 @@
 Projeto Snake
 
-    Esse projeto tem como objetivo reproduzir o jogo "snake".
-    Foi feito de maneira autonoma, ou seja, o snake tem inteligência própria, o usuário apenas deve definir os mapas para o jogo.
+Esse projeto tem como objetivo reproduzir o jogo "snake".
+Foi feito de maneira autonoma, ou seja, o snake tem inteligência própria, o usuário apenas deve definir os mapas para o jogo.
 
 ~ Para definir o mapa:
     Deve-se criar um arquivo txt e chama-lo na hora de compilar. Pode se colocar vários mapas de uma vez no arquivo.
